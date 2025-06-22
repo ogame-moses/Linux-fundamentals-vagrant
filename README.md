@@ -36,12 +36,15 @@ Below commands are used to create and initialized the vm box   #Vagrant boxes ht
 ![vagr1](https://github.com/user-attachments/assets/268559a8-010f-4e95-bb4b-cd4365051bb4)
 
 2. $vagrant init ubuntu/focal64
+   
    ![vagr2](https://github.com/user-attachments/assets/a7082f18-47e6-49bd-862c-168a80419e73)
 
 3. $vagrant plugin install vagrant-vbguest
+   
 ![vagr3](https://github.com/user-attachments/assets/63692af8-f558-416e-88f3-d0b7370862c7)
 
 4. $vagrant up
+   
 ![vagr5](https://github.com/user-attachments/assets/001a8d90-c4cd-405c-9b70-873582dd3488)
 ![vagr4](https://github.com/user-attachments/assets/14bfbc7c-3fe0-48aa-b501-28835b930890)
 ![vagr6](https://github.com/user-attachments/assets/f8aec545-5388-4140-81c5-d378a9b4193e)
